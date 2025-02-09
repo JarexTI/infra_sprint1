@@ -1,6 +1,6 @@
- IP: 158.160.65.107;
- name_taski: https://slgth-sl.ddnsking.com/;
- name_kittygram: https://g4gsg1gqh.zapto.org/;
- login: vi;
- password: 1234;
+IP: 158.160.65.107;
+name_taski: https://slgth-sl.ddnsking.com;
+name_kittygram: https://g4gsg1gqh.zapto.org;
+login: vi;
+password: 1234;
  
